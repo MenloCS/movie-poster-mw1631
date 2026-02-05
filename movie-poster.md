@@ -58,7 +58,7 @@ What do you definitely NOT want? (This helps you evaluate AI outputs critically.
 - [ ] Object/symbol centered  
 - [x] Character collage  
 
-- **Focal point description:**  
+- **Focal point description: I want them to be on a beach and like it's the two of them in the center and the family on the side.**  
 
 ---
 
@@ -68,18 +68,18 @@ What do you definitely NOT want? (This helps you evaluate AI outputs critically.
 Open Adobe Firefly. Generate images based on your creative brief, but remember: you're exploring possibilities, not looking for a final answer.
 
 **Attempt 1:**  
-- **My prompt:**  
+- **My prompt: I  want a movie poster (with no title) of a couple who happens to be Miley Cyrus and Liam Hemsworth on the beach playing piano together there should be a beach house in the background**  
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked: The piano and the beach house**  
+- **What didn't work: the father and son hugging each other**  
+- **What I'll change for next attempt: to no longer have the father and son hugging each other in the background.**  
 
 **Attempt 2:**  
-- **My prompt:**  
+- **My prompt:I  want a movie poster (with no title) of a couple who happens to be Miley Cyrus and Liam Hemsworth on the beach playing piano together there should be a beach house in the background there should be no father and son hugging each other in the background and they should be wearing shorts and a t-shirt or tank top**  
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:The piano and the beach house**  
+- **What didn't work:the guy should not be playing the piano**  
+- **What I'll change for next attempt:I will have the girl play piano**  
 
 ---
 
