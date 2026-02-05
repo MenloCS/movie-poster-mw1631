@@ -89,19 +89,20 @@ Open Adobe Firefly. Generate images based on your creative brief, but remember: 
 Keep refining. Try at least two more meaningfully different directions.
 
 **Attempt 3:**  
-- **My prompt:**  
+- **My prompt: I  want a movie poster (with no title) of a couple who happens to be Miley Cyrus and Liam Hemsworth on the beach playing piano together there should be a beach house in the background there should be no father and son hugging each other in the background and they should be wearing shorts and a t-shirt or tank top the girl should be playing the piano**  
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:The girl playing the piano and the beach house**  
+- **What didn't work: the guy should not be sitting next to her**  
+- **What I'll change for next attempt:the guy will be leaning on the piano instead**  
 
 **Attempt 4:**  
-- **My prompt:**  
+- **My prompt:I  want a movie poster (with no title) of a couple who happens to be Miley Cyrus and Liam Hemsworth on the beach playing piano together there should be a beach house in the background there should be no father and son hugging each other in the background and they should be wearing shorts and a t-shirt or tank top the girl should be playing the piano the guy should not be sitting next to her he should be leaning on the piano and there should be turtles**  
 
-- **What worked:**  
-- **What didn't work:**  
+- **What worked:The girl playing piano and the guy looking at her and the beach house**  
+- **What didn't work: The house looks like it's Christmas time and it's not**  
 
 **Final AI Image Selected:** (Which attempt? Why?)  
+Attempt 4: because it looked the best and matched the movie the best
 
 ---
 
